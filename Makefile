@@ -9,7 +9,7 @@ SRCS = src/main.cpp src/BoundedBuffer.cpp src/UnboundedBuffer.cpp src/Producer.c
 OBJS = $(SRCS:.cpp=.o)
 
 # Executable name
-EXEC = ex3.out
+EXEC = newsBroadcastingSim.out
 
 # Default target
 all: $(EXEC)
