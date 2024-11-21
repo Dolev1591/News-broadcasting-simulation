@@ -133,7 +133,7 @@ To compile and run the program, follow these steps:
    ```
 2. **Execution**:
    ```sh
-   ./ProdCons config.txt
+   ./newsBroadcastingSim config.txt
    ```
    
 
