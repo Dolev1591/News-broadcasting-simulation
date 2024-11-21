@@ -136,27 +136,5 @@ To compile and run the program, follow these steps:
    ./ProdCons config.txt
    ```
    
-## Running the Tests
-
-The tests are located in the `Tests` folder and include 4 configuration files, a shell script to check message counts, and a Python script to automate the testing process.
-
-1. **Navigate to the Tests directory**:
-   The shell script checks the message counts.
-   ```sh
-   cd Tests
-   ```
-3. **Running the Shell Script:**:
-   ```sh
-   chmod +x message_count_tester.sh
-   ./message_count_tester.sh
-   ```   
-4. **Running the Python Test Script**:
-   The Python script automates the testing process and checks the program's behavior under various configurations.
-   ```sh
-   python3 prodcons_tester.py
-   ```   
-### Output Files
-
-For each test configuration, the script generates an output file containing the results of the program's execution. These files are named according to the configuration (e.g., `config1_output.txt`, `config2_output.txt`). Additionally, a summary of the test results is written to `test_results.txt`, which includes pass/fail statuses and any encountered errors.
 
    
