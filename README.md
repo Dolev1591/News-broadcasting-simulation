@@ -8,8 +8,6 @@ This project is a simulation of a news broadcasting system implemented using con
 - [Bounded Buffer](#bounded-buffer)
 - [Configuration File](#configuration-file)
 - [Compilation and Execution](#compilation-and-execution)
-- [Running the Tests](#running-the-tests)
-  - [Output Files](#output-files)
 
 ## General Description
 
